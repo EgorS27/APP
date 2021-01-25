@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765696365386",
+    "project_id": "egors-app",
+    "storage_bucket": "egors-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765696365386:android:8d17d9bacb1b17c72e67b3",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765696365386-l5h0tc0e1ls8ui48hmfseqfelsss5864.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjmhZmAWzwwZ-8j_s9lxIVSDAQJfMTonA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765696365386-l5h0tc0e1ls8ui48hmfseqfelsss5864.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
